@@ -5,11 +5,6 @@ This project is a simple and responsive weather application built with **HTML**,
 
 ---
 
-## 📸 Screenshot
-
-![Image](https://github.com/user-attachments/assets/2c4833b4-b9be-4bfa-bb30-777973412c5a)
-
----
 
 ## 🔍 Features
 
@@ -21,6 +16,13 @@ This project is a simple and responsive weather application built with **HTML**,
   - Wind speed
 
 ---
+
+## 📸 Screenshot
+
+![Image](https://github.com/user-attachments/assets/2c4833b4-b9be-4bfa-bb30-777973412c5a)
+
+---
+
 
 ## 🛠️ Key Technologies Used
 

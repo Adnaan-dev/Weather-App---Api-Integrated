@@ -48,3 +48,12 @@ This project is a simple and responsive weather application built with **HTML**,
 - **API Key**: A free API key from OpenWeatherMap is required to authenticate requests. *(You can register on [OpenWeatherMap](https://openweathermap.org/api) to get your own key).*
 
 ---
+
+
+## 📢 Connect with Me
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/Adnaan-dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jan-adnan-farooq-b216b7321/)
+
+⭐ **Star this repository if you find it useful!** 🚀
+
+

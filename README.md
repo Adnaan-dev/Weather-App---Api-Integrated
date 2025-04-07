@@ -1,5 +1,5 @@
-# Api Integrated Weather App
-## 🌦️ Weather App using HTML, CSS, and JavaScript with OpenWeatherMap API
+#  🌦️ Weather App - API Integrated
+##  Weather App using HTML, CSS, and JavaScript with OpenWeatherMap API
 
 This project is a simple and responsive weather application built with **HTML**, **CSS**, and **JavaScript**. It fetches real-time weather data using the **OpenWeatherMap API** and displays it dynamically.
 

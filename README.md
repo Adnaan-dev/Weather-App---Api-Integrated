@@ -19,7 +19,7 @@ This project is a simple and responsive weather application built with **HTML**,
 
 ## 📸 Screenshot
 
-![Image](https://github.com/user-attachments/assets/2c4833b4-b9be-4bfa-bb30-777973412c5a)
+(![Image](https://github.com/user-attachments/assets/6eb83dde-f4ae-4250-ac5f-0f58484f4b1c))
 
 ---
 

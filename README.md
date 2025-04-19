@@ -48,6 +48,12 @@ This project is a simple and responsive weather application built with **HTML**,
 
 ---
 
+COMPANY : CODTECH IT SOLUTIONS
+NAME : JAN ADNAN FAROOQ
+INTERN ID : CT04DA68
+DOMAIN : FULL STACK WEB DEVELOPMENT
+DURATION : 1 MONTH (4 WEEKS)
+MENTOR : NEELA SANTOSH
 
 ## 📢 Connect with Me
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/Adnaan-dev)

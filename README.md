@@ -47,6 +47,7 @@ This project is a simple and responsive weather application built with **HTML**,
 - **API Key**: A free API key from OpenWeatherMap is required to authenticate requests. *(You can register on [OpenWeatherMap](https://openweathermap.org/api) to get your own key).*
 
 ---
+TASK 1 : API INTEGRATION
 
 COMPANY : CODTECH IT SOLUTIONS
 
@@ -60,7 +61,6 @@ DURATION : 1 MONTH (4 WEEKS)
 
 MENTOR : NEELA SANTOSH
 
-TASK 1 : API INTEGRATION
 
 ## 📢 Connect with Me
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/Adnaan-dev)
